@@ -1,4 +1,4 @@
 # Github Popular Repositories
 <br>
-Webpage that depicts popular github repositories.<br>
-Made with React using Github REST API which extracts and displays repository's information.
+A webpage that depicts popular Github repositories.<br />
+Built with React using Github REST API which extracts and displays repository's information. 
